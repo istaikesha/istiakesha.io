@@ -1,0 +1,160 @@
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar-brand{
+    margin-top: 8px;
+}
+.menu{
+   background-color:white;
+    min-height: 75px;
+}
+
+.new_nav{
+  background-color: transparent;
+    background-color:white;
+    border: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: red;
+}
+
+.nav > li > a {
+       padding: 32px 61.5px;
+}
+
+/*
+.navbar-brand {
+    padding: 15px 19px;
+    font-size: 265px;
+    line-height: 20px;
+}
+*/
+.imgall{
+    margin-top: -100px;
+}
+
+.imgone{
+    margin-left: 700px;
+    margin-top: -500px;
+}
+
+.imgtwo {
+    margin-top: -350px;
+    margin-left: 195px;
+}
+
+
+.caption {
+    margin-top: -150px;
+    margin-left: 185px;
+    color: white;
+}
+
+.caption p {
+    background-color: red;
+    height: 10px;
+    width: 2px;
+    color: white;
+}
+
+.caption h2 {
+    color: white;
+    text-align: center;
+    margin-left: -150px;
+}
+
+.pic {
+    margin-top: 250px;
+}
+
+.captiontwo {
+    margin-top: -150px;
+    margin-left: 150px;
+    color: white;
+}
+
+.captiontwo p {
+    background-color: red;
+    height: 5px;
+    width: 5px;
+    color: white;
+}
+
+.captiontwoh2 {
+    color: white;
+    margin-top: 35px;
+}
+
+.captionthree {
+    margin-top: -155px;
+    margin-left: 150px;
+    color: white;
+}
+
+.captionthree p {
+    background-color: red;
+    height: 5px;
+    width: 5px;
+    color: white;
+    margin-left: 20px;
+}
+
+.captionthree h2 {
+    color: white;
+    margin-top: 35px;
+    text-align: center;
+    margin-left: -185px;
+}
+
+.textone {
+    text-align: center;
+    color: red;
+}
+
+.taka {
+    color: red;
+}
+
+.texttwo {
+    text-align: center;
+    margin-top: 120px;
+    color: red;
+}
+
+.page {
+
+    max-width: 1400px;
+    margin-top: 100px;
+    position: relative;
+}
+
+.container {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 250px;
+}
+
+.thumbnail img {
+    opacity: 0.8;
+}
+
+.thumbnail img:hover {
+    opacity: 1;
+}
+
+.copyright {
+    margin-left: -1000px;
+}
+
+.container {
+    text-align: center;
+}
+
+.pager {
+    margin-top: 100px;
+}
